@@ -1,0 +1,5 @@
+Season	Average_Temperature
+Summer	27.44
+Autumn	21.85
+Winter	15.85
+Spring	22.41

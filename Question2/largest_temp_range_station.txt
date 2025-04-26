@@ -1,0 +1,3 @@
+Station(s) with the largest temperature range:
+- Perth
+- Adelaide
